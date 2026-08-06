@@ -9,7 +9,7 @@
 
 ## Summary				
 
-I am an enthusiastic designer with a keen interest in mathematics, electronics circuits, FPGA architecture, and signal processing. With a master’s degree in electronics engineering, specializing in circuits and systems, I have contributed to academic research and industrial design projects across several countries, including Taiwan and Hong Kong, before relocating to Sweden. During my time as an FPGA developer, I worked with a variety of families, including Altera, Xilinx's Spartan 3, Spartan 6, Artix-7, and Zynq series.
+I am an enthusiastic electronics designer with a keen interest in mathematics, electronics circuits, FPGA architecture, and signal processing. With a master’s degree in electronics engineering, specializing in circuits and systems, I have contributed to academic research and industrial design projects across several countries, including Taiwan and Hong Kong, before relocating to Sweden. During my time as an FPGA developer, I worked with a variety of families, including Altera, Xilinx's Spartan 3, Spartan 6, Artix-7, and Zynq series.
 
 <br>
 
