@@ -1,8 +1,12 @@
 # Emad Mojaveri                                                                                                                                   
-
-Electronics Designer and FPGA developer based in Sweden
-
+FPGA developer and Electronics Hardware Designer based in Sweden      
 [Email](mailto:emadmojaveri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/emadmojaveri)
+
+<p align="right">
+<img src="/img/ProfilePic.png" width="360" 
+</p>
+<br>
+
 
 <br>
 
@@ -33,7 +37,7 @@ In addition to hardware development, I created numerous high-speed communication
 <br>
 
 ## Peer-Reviewed Journal:													
-Erfan Abbasian, Shilpi Birla, and Emad Mojaveri, [Design and Investigation of Stability- and Power-Improved 11T SRAM Cell for Low-Power Devices](https://doi.org/10.1002/cta.3364) International Journal of Circuit Theory and Applications (IJCTA), 2022 
+- Erfan Abbasian, Shilpi Birla, and Emad Mojaveri, [Design and Investigation of Stability- and Power-Improved 11T SRAM Cell for Low-Power Devices](https://doi.org/10.1002/cta.3364) International Journal of Circuit Theory and Applications (IJCTA), 2022 
 
 <br>
 
@@ -47,7 +51,7 @@ Erfan Abbasian, Shilpi Birla, and Emad Mojaveri, [Design and Investigation of St
 
 - Electronics System Research Assistant @ Smart Control Developing Technology Co., Imam Khomeini International University (IKIU) | Qazvin Province, Iran  _(Jun. 2018  to Sep. 2019)_
 
-- Electronics Hardware & System Designer	@ Subar Science & Technology Co. (MatsaJet), Business Partner of MapleJet of Canada | Guilan Province, Iran	_(Apr. 2016 to Feb. 2018)_
+- Electronics Hardware & System Designer	@ Subar Science & Technology Co. (MatsaJet) | Guilan Province, Iran	_(Apr. 2016 to Feb. 2018)_
 
 - Electrical Expert	@ Antique Co. | Guilan Province, Iran	_(Apr. 2014 to Jan. 2016)_
 
