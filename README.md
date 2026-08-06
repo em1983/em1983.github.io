@@ -1,10 +1,11 @@
-# Emad Mojaveri                                                                                                                                   
-FPGA developer and Electronics Hardware Designer based in Sweden      
+# Emad Mojaveri Moslem                                                                                                                                   
+FPGA developer and Electronics Hardware Designer based in Stockholm / Sweden      
 [Email](mailto:emadmojaveri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/emadmojaveri)
 
 <p align="right">
-<img src="/img/ProfilePic.png" width="360" 
+  <img src="./img/ProfilePic.png" width="250" alt="Profile Picture">
 </p>
+
 <br>
 
 <br>
@@ -42,25 +43,25 @@ In addition to hardware development, I created numerous high-speed communication
 
 ## Working Experiences:
 
-- Electronics Hardware Designer & FPGA developer @ [HitachiEnergy](https://www.hitachienergy.com/) | Sweden  _(May 2022 - Peresent)_		
+- Electronics Hardware Designer & FPGA developer @ [HitachiEnergy](https://www.hitachienergy.com/), Stockholm / Sweden  _(May 2022 - Peresent)_		
 
-- FPGA Design & Electronics Hardware Research Assistant	@ [City University of Hong Kong](https://www.cityu.edu.hk/en) | Hong Kong SAR	_(Oct. 2020 to Mar. 2022)_
+- FPGA Design & Electronics Hardware Research Assistant	@ [City University of Hong Kong](https://www.cityu.edu.hk/en), Hong Kong SAR	_(Oct. 2020 to Mar. 2022)_
 
-- Electronics System Researcher @	[National Chiao Tung University](https://www.nycu.edu.tw/nycu/en) | Hsinchu City, Taiwan	_(Jan. 2020 to Sep. 2020)_													
+- Electronics System Researcher @	[National Chiao Tung University](https://www.nycu.edu.tw/nycu/en), Hsinchu City / Taiwan	_(Jan. 2020 to Sep. 2020)_													
 
-- Electronics System Research Assistant @ Smart Control Developing Technology Co., Imam Khomeini International University (IKIU) | Qazvin Province, Iran  _(Jun. 2018  to Sep. 2019)_
+- Electronics System Research Assistant @ Smart Control Developing Technology Co. (Imam Khomeini International University - IKIU), Qazvin Province / Iran  _(Jun. 2018  to Sep. 2019)_
 
-- Electronics Hardware & System Designer	@ Subar Science & Technology Co. (MatsaJet) | Guilan Province, Iran	_(Apr. 2016 to Feb. 2018)_
+- Electronics Hardware & System Designer	@ Subar Science & Technology Co. (MatsaJet), Guilan Province / Iran	_(Apr. 2016 to Feb. 2018)_
 
-- Electrical Expert	@ Antique Co. | Guilan Province, Iran	_(Apr. 2014 to Jan. 2016)_
+- Electrical Expert	@ Antique Co., Guilan Province, Iran	_(Apr. 2014 to Jan. 2016)_
 
-- Automation & Instrumentation Technical Expert	@ Khazar Steel Complex | Guilan Province, Iran _(Sep. 2013 to Feb. 2014)_
+- Automation & Instrumentation Technical Expert	@ Khazar Steel Complex, Guilan Province / Iran _(Sep. 2013 to Feb. 2014)_
   
 <br>
 
 ## Education
-- M.Sc. Electrical Engineering - Electronics, Azad University, Science and Research Branch, Tehran, Iran - GPA: 3.3 (16.5 / 20)				
-- B.Sc. Electrical Engineering - Electronics, University of Guilan, Rasht, Iran - GPA: 3.53 (17.69 / 20)
+- M.Sc. Electrical Engineering - Electronics, Azad University, Science and Research Branch, Tehran / Iran - GPA: 3.3 (16.5 / 20)				
+- B.Sc. Electrical Engineering - Electronics, University of Guilan, Rasht / Iran - GPA: 3.53 (17.69 / 20)
 
 <br>
 
