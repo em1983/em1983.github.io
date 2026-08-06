@@ -1,4 +1,4 @@
-## FPGA developer and Electronics Hardware Designer based in Stockholm / Sweden      
+# FPGA developer and Electronics Hardware Designer based in Stockholm / Sweden      
 [Email](mailto:emadmojaveri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/emadmojaveri)
 
 <p align="right">
