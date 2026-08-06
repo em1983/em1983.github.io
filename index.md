@@ -1,9 +1,8 @@
-# Emad Mojaveri Moslem                                                                                                                               
-FPGA developer and Electronics Hardware Designer based in Stockholm / Sweden      
+## FPGA developer and Electronics Hardware Designer based in Stockholm / Sweden      
 [Email](mailto:emadmojaveri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/emadmojaveri)
 
 <p align="right">
-  <img src="./img/ProfilePic.png" width="250" alt="Profile Picture">
+  <img src="./img/ProfilePic.png" width="360" alt="Profile Picture">
 </p>
 
 <br>
