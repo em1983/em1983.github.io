@@ -9,16 +9,22 @@ FPGA developer and Electronics Hardware Designer based in Stockholm / Sweden
 <br>
 
 <br>
-## Summary:														
-I am an enthusiastic designer with a keen interest in mathematics, electronics circuits, FPGA architecture, and signal processing. With a master’s degree in electronics engineering, specializing in circuits and systems, I have contributed to academic research and industrial design projects across several countries, including Taiwan and Hong Kong, before relocating to Sweden. During my time as an FPGA developer, I worked with a variety of families, including Altera, Xilinx's Spartan 3, Spartan 6, Artix-7, and Zynq series. 				
 
-I created numerous AXI-based communication modules and test benches for FPGAs. In addition, I've created testbenches using open-source frameworks such as OSVVM, VUnit, and the UVVM framework, which include reusable verification components (VCs), bus functional models (BFMs), and advanced logging/assertions for FPGA RTL verification and image processing with FPGAs. VHDL was used to implement and verify a simple RISC-V RV32I core. I also created Wishbone-compatible RTL modules and TBs for point-to-point and shared bus topologies. Python RTL models were created in cocotb, interfacing VHDL/Verilog DUTs for reference checks and self-testing. Implemented and verified a custom 256-point fixed-point FFT (radix-2 DIT) in VHDL, including state-machine control, twiddle generation, and comprehensive testbench validation.		
+## Summary				
+
+I am an enthusiastic designer with a keen interest in mathematics, electronics circuits, FPGA architecture, and signal processing. With a master’s degree in electronics engineering, specializing in circuits and systems, I have contributed to academic research and industrial design projects across several countries, including Taiwan and Hong Kong, before relocating to Sweden. During my time as an FPGA developer, I worked with a variety of families, including Altera, Xilinx's Spartan 3, Spartan 6, Artix-7, and Zynq series.
+
+<br>
+
+I created numerous AXI-based communication modules and test benches for FPGAs. In addition, I've created testbenches using open-source frameworks such as OSVVM, VUnit, and the UVVM framework, which include reusable verification components (VCs), bus functional models (BFMs), and advanced logging/assertions for FPGA RTL verification and image processing with FPGAs. VHDL was used to implement and verify a simple RISC-V RV32I core. I also created Wishbone-compatible RTL modules and TBs for point-to-point and shared bus topologies. Python RTL models were created in cocotb, interfacing VHDL/Verilog DUTs for reference checks and self-testing. Implemented and verified a custom 256-point fixed-point FFT (radix-2 DIT) in VHDL, including state-machine control, twiddle generation, and comprehensive testbench validation.
+
+<br>
 
 In addition to hardware development, I created numerous high-speed communication data acquisition I/O boards based on the Xilinx and Altera FPGA families. This required a schematic design and layout of a multi-layer PCB to ensure optimal power and signal integrity. To fine-tune the platform for peak performance, I performed testing, debugging, and hardware-in-the-loop verification.
 
 <br>
 
-## Research Interest: 													 
+## Research Interest 													 
 - FPGA, CoS & ASIC devices
   
 - VLSI & low-power design
@@ -35,12 +41,12 @@ In addition to hardware development, I created numerous high-speed communication
 
 <br>
 
-## Peer-Reviewed Journal:													
+## Peer-Reviewed Journal													
 - Erfan Abbasian, Shilpi Birla, and Emad Mojaveri, [Design and Investigation of Stability- and Power-Improved 11T SRAM Cell for Low-Power Devices](https://doi.org/10.1002/cta.3364) International Journal of Circuit Theory and Applications (IJCTA), 2022 
 
 <br>
 
-## Working Experiences:
+## Working Experiences
 
 - Electronics Hardware Designer & FPGA developer @ [HitachiEnergy](https://www.hitachienergy.com/), Stockholm / Sweden  _(May 2022 - Peresent)_		
 
