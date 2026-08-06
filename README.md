@@ -7,7 +7,6 @@ FPGA developer and Electronics Hardware Designer based in Sweden
 </p>
 <br>
 
-
 <br>
 
 ## Summary:														
