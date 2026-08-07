@@ -38,7 +38,6 @@ With hands-on experience in FPGA & embedded systems, hardware design, and hardwa
 <p class="justify">
 I have attached a few pictures from my past sorting robotic projects (that was planned to be camera added in the next phase - 2018) to provide a glimpse of my hands-on work and technical proficiency. I am eager to bring this practical experience and passion to any team and contribute to pushing the limits of current technologies.
 </p>
-<br>
 
 <p align="center"> 
 	<img src="./img/PastExperiences _05.jpg" width="180" alt="Sorting robot prototype, front-left view"> 
@@ -54,20 +53,24 @@ I have attached a few pictures from my past sorting robotic projects (that was p
 
 <br>
 <p class="justify">
-These images capture a later stage of my FPGA development work, when I moved from system-level prototyping to signal-level verification and analysis. At this point, I focused on pulse detection behavior, , FFT, increase FIR / IIR filter speed, moving-average filtering, AM modulation response, and asynchronous FIFO reliability under timing constraints. This phase helped me strengthen my workflow in waveform interpretation, debugging, and verification-driven RTL refinement.
-</p>
-<br>
-
-<p align="center"> 
-	<img src="./img/PastExperiences _13.jpg" width="300" alt="Pulse detection"> 
-	<img src="./img/PastExperiences _11.jpg" width="300" height="160" alt="Pulse detection"> 
-</p>
-<p align="center"> 
-	<img src="./img/PastExperiences _12.jpg" width="260" height="174" alt="moving ave"> 
-	<img src="./img/PastExperiences _15.jpg" width="260" height="174" alt="AM modulation"> 
-	<img src="./img/PastExperiences _14.jpg" width="260" height="174" alt="Async fifo"> 
+These images capture a later stage of my FPGA development works, when I moved from system-level prototyping to signal-level verification and analysis. At this point, I focused on pulse detection behavior, FFT, increase FIR / IIR filter speed, moving-average filtering, AM modulation response, and asynchronous FIFO reliability under timing constraints. This phase helped me strengthen my workflow in waveform interpretation, debugging, and verification-driven RTL refinement.
 </p>
 
+<p align="center"> 
+	<img src="./img/PastExperiences _13.jpg" width="480" alt="Pulse detection"> 
+</p>
+<p align="center"> 
+	<img src="./img/PastExperiences _11.jpg" width="480" height="260" alt="Pulse detection"> 
+</p>
+<p align="center"> 
+	<img src="./img/PastExperiences _12.jpg" width="480" alt="moving ave"> 
+</p>
+<p align="center"> 
+	<img src="./img/PastExperiences _15.jpg" width="480" alt="AM modulation"> 
+</p>
+<p align="center"> 
+	<img src="./img/PastExperiences _14.jpg" width="480" alt="Async fifo"> 
+</p>
 <br>
 
 ## Research Interest 													 
