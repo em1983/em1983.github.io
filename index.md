@@ -57,19 +57,19 @@ These images capture a later stage of my FPGA development works, when I moved fr
 </p>
 
 <p align="center"> 
-	<img src="./img/PastExperiences _13.jpg" width="480" alt="Pulse detection"> 
+	<img src="./img/PastExperiences _13.jpg" width="600" alt="Pulse detection"> 
 </p>
 <p align="center"> 
-	<img src="./img/PastExperiences _11.jpg" width="480" height="260" alt="Pulse detection"> 
+	<img src="./img/PastExperiences _11.jpg" width="600" height="260" alt="Pulse detection"> 
 </p>
 <p align="center"> 
-	<img src="./img/PastExperiences _12.jpg" width="480" alt="moving ave"> 
+	<img src="./img/PastExperiences _12.jpg" width="600" alt="moving ave"> 
 </p>
 <p align="center"> 
-	<img src="./img/PastExperiences _15.jpg" width="480" alt="AM modulation"> 
+	<img src="./img/PastExperiences _15.jpg" width="600" alt="AM modulation"> 
 </p>
 <p align="center"> 
-	<img src="./img/PastExperiences _14.jpg" width="480" alt="Async fifo"> 
+	<img src="./img/PastExperiences _14.jpg" width="600" alt="Async fifo"> 
 </p>
 <br>
 
