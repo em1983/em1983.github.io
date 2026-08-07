@@ -1,4 +1,11 @@
-# FPGA developer and Electronics Hardware Designer based in Stockholm / Sweden      
+---
+layout: default
+title: Emad Mojaveri Moslem
+---
+
+<br>
+
+## FPGA developer and Electronics Hardware Designer based in Sweden      
 [Email](mailto:emadmojaveri@gmail.com) / [LinkedIn](https://www.linkedin.com/in/emadmojaveri)
 
 <p align="right">
@@ -10,14 +17,43 @@
 ## Summary				
 
 I am an enthusiastic electronics designer with a keen interest in mathematics, electronics circuits, FPGA architecture, and signal processing. With a master’s degree in electronics engineering, specializing in circuits and systems, I have contributed to academic research and industrial design projects across several countries, including Taiwan and Hong Kong, before relocating to Sweden. During my time as an FPGA developer, I worked with a variety of families, including Altera, Xilinx's Spartan 3, Spartan 6, Artix-7, and Zynq series.
-
 <br>
 
 I created numerous AXI-based communication modules and test benches for FPGAs. In addition, I've created testbenches using open-source frameworks such as OSVVM, VUnit, and the UVVM framework, which include reusable verification components (VCs), bus functional models (BFMs), and advanced logging/assertions for FPGA RTL verification and image processing with FPGAs. VHDL was used to implement and verify a simple RISC-V RV32I core. I also created Wishbone-compatible RTL modules and TBs for point-to-point and shared bus topologies. Python RTL models were created in cocotb, interfacing VHDL/Verilog DUTs for reference checks and self-testing. Implemented and verified a custom 256-point fixed-point FFT (radix-2 DIT) in VHDL, including state-machine control, twiddle generation, and comprehensive testbench validation.
-
 <br>
 
 In addition to hardware development, I created numerous high-speed communication data acquisition I/O boards based on the Xilinx and Altera FPGA families. This required a schematic design and layout of a multi-layer PCB to ensure optimal power and signal integrity. To fine-tune the platform for peak performance, I performed testing, debugging, and hardware-in-the-loop verification.
+
+<br>
+
+
+## Project Highlights			
+With hands-on experience in FPGA & embedded systems, hardware design, and hardware-in-the-loop (HIL) testing, including lab validation with oscilloscopes, logic analyzers, and measurement instruments, I am enthusiastic about applying my skills to advance any innovation and automation solutions. In my previous projects, I have worked extensively with FPGA platforms to implement complex algorithms for HVDC ‘s data acquisition and verification. This background in robotics and system integration has equipped me with strong capabilities in debugging and optimizing hardware and software interactions, skills that are directly relevant to the challenges of high-speed processing.
+<br>
+
+I have attached a few pictures from my past sorting robotic projects (that was planned to be camera added in the next phase - 2018) to provide a glimpse of my hands-on work and technical proficiency. I am eager to bring this practical experience and passion to any team and contribute to pushing the limits of current technologies.
+
+<p align="center"> 
+	<img src="./img/PastExperiences _05.jpg" width="180" alt="Sorting robot prototype, front-left view"> 
+	<img src="./img/PastExperiences _06.jpg" width="180" alt="Sorting robot prototype, side view of frame and wiring"> 
+	<img src="./img/PastExperiences _07.jpg" width="180" alt="Sorting robot workstation with control and conveyor section"> 
+	<img src="./img/PastExperiences _08.jpg" width="180" alt="Close-up of sorting mechanism and mechanical assembly"> 
+	<img src="./img/PastExperiences _09.jpg" width="180" alt="Completed sorting robot setup during testing"> 
+</p>
+
+<p align="center"> 
+	<img src="./img/PastExperiences _10.jpg" width="360" alt="Completed DAQ"> 
+</p>
+
+<p align="center"> 
+	<img src="./img/PastExperiences _13.jpg" width="480" alt="Pulse detection"> 
+	<img src="./img/PastExperiences _11.jpg" width="480" height="255" alt="Pulse detection"> 
+</p>
+<p align="center"> 
+	<img src="./img/PastExperiences _12.jpg" width="320" height="174" alt="moving ave"> 
+	<img src="./img/PastExperiences _15.jpg" width="320" height="174" alt="AM modulation"> 
+	<img src="./img/PastExperiences _14.jpg" width="320" height="174" alt="Async fifo"> 
+</p>
 
 <br>
 
@@ -45,9 +81,9 @@ In addition to hardware development, I created numerous high-speed communication
 
 ## Working Experiences
 
-- Electronics Hardware Designer & FPGA developer @ [HitachiEnergy](https://www.hitachienergy.com/), Stockholm / Sweden  _(May 2022 - Peresent)_		
+- FPGA developer & Electronics Hardware Designer @ [HitachiEnergy](https://www.hitachienergy.com/), Sweden  _(May 2022 - Peresent)_		
 
-- FPGA Design & Electronics Hardware Research Assistant	@ [City University of Hong Kong](https://www.cityu.edu.hk/en), Hong Kong SAR	_(Oct. 2020 to Mar. 2022)_
+- FPGA Designer & Electronics Hardware Research Assistant	@ [City University of Hong Kong](https://www.cityu.edu.hk/en), Hong Kong SAR	_(Oct. 2020 to Mar. 2022)_
 
 - Electronics System Researcher @	[National Chiao Tung University](https://www.nycu.edu.tw/nycu/en), Hsinchu City / Taiwan	_(Jan. 2020 to Sep. 2020)_													
 
@@ -62,8 +98,7 @@ In addition to hardware development, I created numerous high-speed communication
 <br>
 
 ## Education
-- M.Sc. Electrical Engineering - Electronics, Azad University, Science and Research Branch, Tehran / Iran - GPA: 3.3 (16.5 / 20)				
-- B.Sc. Electrical Engineering - Electronics, University of Guilan, Rasht / Iran - GPA: 3.53 (17.69 / 20)
+- M.Sc. & B.Sc. Electrical Engineering - Electronics
 
 <br>
 
